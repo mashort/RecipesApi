@@ -1,0 +1,8 @@
+c:\Code\Repos\RecipesApi\bin\MCD\Debug\netcoreapp1.1\RecipesApi.deps.json
+c:\Code\Repos\RecipesApi\bin\MCD\Debug\netcoreapp1.1\RecipesApi.runtimeconfig.json
+c:\Code\Repos\RecipesApi\bin\MCD\Debug\netcoreapp1.1\RecipesApi.runtimeconfig.dev.json
+c:\Code\Repos\RecipesApi\bin\MCD\Debug\netcoreapp1.1\RecipesApi.dll
+c:\Code\Repos\RecipesApi\bin\MCD\Debug\netcoreapp1.1\RecipesApi.pdb
+c:\Code\Repos\RecipesApi\obj\MCD\Debug\netcoreapp1.1\RecipesApi.AssemblyInfo.cs
+c:\Code\Repos\RecipesApi\obj\MCD\Debug\netcoreapp1.1\RecipesApi.dll
+c:\Code\Repos\RecipesApi\obj\MCD\Debug\netcoreapp1.1\RecipesApi.pdb
